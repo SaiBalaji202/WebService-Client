@@ -1,0 +1,12 @@
+c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\bin\Debug\WebServiceClient.exe.config
+c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\bin\Debug\WebServiceClient.exe
+c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\bin\Debug\WebServiceClient.pdb
+c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\bin\Debug\MetroFramework.Design.dll
+c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\bin\Debug\MetroFramework.dll
+c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\bin\Debug\MetroFramework.Fonts.dll
+c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.csprojResolveAssemblyReference.cache
+c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.FrmMain.resources
+c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.Properties.Resources.resources
+c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.csproj.GenerateResource.Cache
+c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.exe
+c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.pdb
