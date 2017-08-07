@@ -10,3 +10,14 @@ c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebService
 c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.csproj.GenerateResource.Cache
 c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.exe
 c:\users\balaj\documents\visual studio 2017\Projects\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.pdb
+C:\Users\balaj\Documents\GitHub\Web Service\WebService-Client\WebServiceClient\WebServiceClient\bin\Debug\WebServiceClient.exe.config
+C:\Users\balaj\Documents\GitHub\Web Service\WebService-Client\WebServiceClient\WebServiceClient\bin\Debug\WebServiceClient.exe
+C:\Users\balaj\Documents\GitHub\Web Service\WebService-Client\WebServiceClient\WebServiceClient\bin\Debug\WebServiceClient.pdb
+C:\Users\balaj\Documents\GitHub\Web Service\WebService-Client\WebServiceClient\WebServiceClient\bin\Debug\MetroFramework.Design.dll
+C:\Users\balaj\Documents\GitHub\Web Service\WebService-Client\WebServiceClient\WebServiceClient\bin\Debug\MetroFramework.dll
+C:\Users\balaj\Documents\GitHub\Web Service\WebService-Client\WebServiceClient\WebServiceClient\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\balaj\Documents\GitHub\Web Service\WebService-Client\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.FrmMain.resources
+C:\Users\balaj\Documents\GitHub\Web Service\WebService-Client\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.Properties.Resources.resources
+C:\Users\balaj\Documents\GitHub\Web Service\WebService-Client\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.csproj.GenerateResource.Cache
+C:\Users\balaj\Documents\GitHub\Web Service\WebService-Client\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.exe
+C:\Users\balaj\Documents\GitHub\Web Service\WebService-Client\WebServiceClient\WebServiceClient\obj\Debug\WebServiceClient.pdb

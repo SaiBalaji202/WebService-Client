@@ -122,7 +122,7 @@ namespace WebServiceClient
         private async void metroBtnLoadSimilarWords_Click(object sender, EventArgs e)
         {
             MakeLoadPanelVisible(metroPanelMatch);
-            lstSimilarWords.Items.Clear();
+            //lstSimilarWords.Items.Clear();
 
             string strWordToMatch = metroTxtWordToMatch.Text; string strStrategies = metroComboStratagies.Text;
             DictionaryWord[] words = await Task.Run( () => service.Match(strWordToMatch, strStrategies));
